@@ -1,0 +1,9 @@
+com\fqw\trangulation\structure\DPoint.class
+com\fqw\trangulation\structure\DEdge.class
+com\fqw\trangulation\utils\ConvexHull.class
+com\fqw\trangulation\utils\Polygons.class
+com\fqw\trangulation\utils\Similarity.class
+com\fqw\trangulation\Tester.class
+com\fqw\trangulation\BowyerWatson.class
+com\fqw\trangulation\structure\DTriangle.class
+com\fqw\trangulation\utils\DPolygon.class
